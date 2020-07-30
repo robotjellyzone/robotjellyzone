@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Thought Provoking AI IMAGE](image_ai.jpg)
+![Thought Provoking AI IMAGE](/image_ai.jpg)
 
 :sparkles: Hi,I'm **Robot Jelly**, a `technology enthusiast` :robot: who is always very keen to know about the great new emerging techologies with the help of which we can heal the society. 
 
