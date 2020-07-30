@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Thought Provoking AI IMAGE](image_ai)
+
+:sparkles: Hi,I'm **Robot Jelly**, a `technology enthusiast` :robot: who is always very keen to know about the great new emerging techologies with the help of which we can heal the society. 
+
+:sparkles: The techologies which fasicantes me a lot are ML/DL/AI :robot: and Android . 
+
+:sparkles: 🔭 Currently, I am learning ML/DL & their various applications along with this, i am trying to engage or indulge myself more into the open source world .
+
+:sparkles: Just trying to know, how to involve myself in the great technical stuffs/projects helpful for the society & learning ways to use mixture of techologies in one go. 
