@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋🏼 👩🏾‍💻
 
 
 # ![Thought Provoking AI IMAGE](https://github.com/robotjellyzone/robotjellyzone/blob/master/image_ai.jpg)
