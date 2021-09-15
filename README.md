@@ -13,17 +13,17 @@
 
 **Github Stats :**
 ---
-|[![Robotjelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=robotjellyzone&count_private=true&show_icons=true&theme=solarized-light&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)|![streak](https://github-readme-streak-stats.herokuapp.com/?user=robotjellyzone)|
+|[![Robotjelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=robotjellyzone&count_private=true&show_icons=true&theme=solarized-light&include_all_commits=true)](https://github.com/robotjellyzone)|![streak](https://github-readme-streak-stats.herokuapp.com/?user=robotjellyzone)|
 |---------------------------------------|--------------------------------------------|
 
 
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robotjellyzone&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)|[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=robotjelly&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robotjellyzone&layout=compact&theme=highcontrast)](https://github.com/robotjellyzone)|[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=robotjelly&layout=compact&theme=highcontrast)](https://github.com/robotjellyzone)|
 |---------------------------------------------------|------------------------------------------------------------------------------------------------|
 
 **Top Repositories :**
 ---
-[![Project1 Card](https://github-readme-stats.vercel.app/api/pin/?username=robotjellyzone&repo=project-sagemaker-for-sentiment-analysis&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-[![Project2 Card](https://github-readme-stats.vercel.app/api/pin/?username=robotjellyzone&repo=Logo-Quiz-Game-Using-Kotlin&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Project1 Card](https://github-readme-stats.vercel.app/api/pin/?username=robotjellyzone&repo=project-sagemaker-for-sentiment-analysis&theme=buefy)](https://github.com/robotjellyzone)
+[![Project2 Card](https://github-readme-stats.vercel.app/api/pin/?username=robotjellyzone&repo=Logo-Quiz-Game-Using-Kotlin&theme=buefy)](https://github.com/robotjellyzone)
 ---
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=robotjellyzone.readme&left_color=green&right_color=red)
 [![Repos Badge](https://badges.pufler.dev/repos/robotjellyzone)](https://badges.pufler.dev)
