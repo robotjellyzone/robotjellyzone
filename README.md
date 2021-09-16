@@ -28,6 +28,10 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=robotjellyzone.readme&left_color=green&right_color=red)
 [![Repos Badge](https://badges.pufler.dev/repos/robotjellyzone)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/all/robotjellyzone)](https://badges.pufler.dev)
+![Profile Views](https://komarev.com/ghpvc/?username=robotjellyzone&color=ff69b4)
+
+![Github Followers](https://img.shields.io/github/followers/robotjellyzone?style=social)
+![Github Stars](https://img.shields.io/github/stars/robotjellyzone?style=social)
 
 **Skills :**
 ---
