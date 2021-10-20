@@ -3,7 +3,7 @@
 
 # ![Thought Provoking AI IMAGE](https://github.com/robotjellyzone/robotjellyzone/blob/master/image_ai.jpg)
 
-- :sparkles: Hi,I'm **Robot Jelly**, a `technology enthusiast` :robot: who is always very keen to know about the great new emerging techologies with the help of which we can heal the society. 
+- :sparkles: Hi,I'm **Kavya / Robot Jelly**, a `technology enthusiast` :robot: who is always very keen to know about the great new emerging techologies with the help of which we can heal the society. 
 
 - :sparkles: The techologies which fascinates me a lot are ML/DL/AI :robot: and Android . 
 
