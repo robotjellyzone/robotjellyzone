@@ -26,8 +26,7 @@
 
 📌 **Top Repositories :**
 ---
-[![Project1 Card](https://github-readme-stats.vercel.app/api/pin/?username=robotjellyzone&repo=project-sagemaker-for-sentiment-analysis&theme=buefy)](https://github.com/robotjellyzone)
-[![Project2 Card](https://github-readme-stats.vercel.app/api/pin/?username=robotjellyzone&repo=Logo-Quiz-Game-Using-Kotlin&theme=buefy)](https://github.com/robotjellyzone)
+[![Project1 Card](https://github-readme-stats.vercel.app/api/pin/?username=robotjellyzone&repo=project-sagemaker-for-sentiment-analysis&theme=buefy)](https://github.com/robotjellyzone) [![Project2 Card](https://github-readme-stats.vercel.app/api/pin/?username=robotjellyzone&repo=Logo-Quiz-Game-Using-Kotlin&theme=buefy)](https://github.com/robotjellyzone)
 ---
 
 📌 Recent Activities :
@@ -36,45 +35,26 @@
 1. 🗣 Commented on [#59](https://github.com/huggingface/course/issues/59) in [huggingface/course](https://github.com/huggingface/course)
 2. 🗣 Commented on [#16404](https://github.com/huggingface/transformers/issues/16404) in [huggingface/transformers](https://github.com/huggingface/transformers)
 3. 🗣 Commented on [#16404](https://github.com/huggingface/transformers/issues/16404) in [huggingface/transformers](https://github.com/huggingface/transformers)
-4. 🗣 Commented on [#59](https://github.com/huggingface/course/issues/59) in [huggingface/course](https://github.com/huggingface/course)
-5. 🗣 Commented on [#200](https://github.com/MDAnalysis/UserGuide/issues/200) in [MDAnalysis/UserGuide](https://github.com/MDAnalysis/UserGuide)
-6. 🗣 Commented on [#3643](https://github.com/MDAnalysis/mdanalysis/issues/3643) in [MDAnalysis/mdanalysis](https://github.com/MDAnalysis/mdanalysis)
-7. 🗣 Commented on [#200](https://github.com/MDAnalysis/UserGuide/issues/200) in [MDAnalysis/UserGuide](https://github.com/MDAnalysis/UserGuide)
 <!--END_SECTION:activity-->
 
 **Skills :**
 ---
-![language](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![language](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![language](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![language](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![language](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
-![language](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![language](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![language](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![language](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![language](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen) ![language](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![language](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![language](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![language](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white) ![language](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![language](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![language](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![language](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
 **📝Blogs :**
 ---
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@robotjelly.zone)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/robotjellyzone)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@robotjelly.zone) [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/robotjellyzone)
 
 **📈 Other Stats :**
 ---
-![visitors](https://visitor-badge.glitch.me/badge?page_id=robotjellyzone.readme&left_color=green&right_color=red)
-[![Repos Badge](https://badges.pufler.dev/repos/robotjellyzone)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/all/robotjellyzone)](https://badges.pufler.dev)
-![Profile Views](https://komarev.com/ghpvc/?username=robotjellyzone&color=ff69b4)
 
-![Github Followers](https://img.shields.io/github/followers/robotjellyzone?style=social)
-![Github Stars](https://img.shields.io/github/stars/robotjellyzone?style=social)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=robotjellyzone.readme&left_color=green&right_color=red) [![Repos Badge](https://badges.pufler.dev/repos/robotjellyzone)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/all/robotjellyzone)](https://badges.pufler.dev) ![Profile Views](https://komarev.com/ghpvc/?username=robotjellyzone&color=ff69b4)
+
+![Github Followers](https://img.shields.io/github/followers/robotjellyzone?style=social) ![Github Stars](https://img.shields.io/github/stars/robotjellyzone?style=social)
 
 **Connect With Me:**
 ---
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iamrobotjelly)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](robotjelly.zone@gmail.com)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/robotjellyzone)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/robot-jelly-technologist-enthusiast-0703)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iamrobotjelly) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](robotjelly.zone@gmail.com) [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/robotjellyzone) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/robot-jelly-technologist-enthusiast-0703)
 
 
 
