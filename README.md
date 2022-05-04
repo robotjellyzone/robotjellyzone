@@ -27,6 +27,13 @@
 ---
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#16404](https://github.com/huggingface/transformers/issues/16404) in [huggingface/transformers](https://github.com/huggingface/transformers)
+2. 🗣 Commented on [#16404](https://github.com/huggingface/transformers/issues/16404) in [huggingface/transformers](https://github.com/huggingface/transformers)
+3. 💪 Opened PR [#17064](https://github.com/huggingface/transformers/pull/17064) in [huggingface/transformers](https://github.com/huggingface/transformers)
+4. 🗣 Commented on [#59](https://github.com/huggingface/course/issues/59) in [huggingface/course](https://github.com/huggingface/course)
+5. 🗣 Commented on [#200](https://github.com/MDAnalysis/UserGuide/issues/200) in [MDAnalysis/UserGuide](https://github.com/MDAnalysis/UserGuide)
+6. 🗣 Commented on [#3643](https://github.com/MDAnalysis/mdanalysis/issues/3643) in [MDAnalysis/mdanalysis](https://github.com/MDAnalysis/mdanalysis)
+7. 🗣 Commented on [#200](https://github.com/MDAnalysis/UserGuide/issues/200) in [MDAnalysis/UserGuide](https://github.com/MDAnalysis/UserGuide)
 <!--END_SECTION:activity-->
 
 **Skills :**
