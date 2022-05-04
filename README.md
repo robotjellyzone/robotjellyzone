@@ -20,6 +20,10 @@
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robotjellyzone&layout=compact&theme=highcontrast)](https://github.com/robotjellyzone)|[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=robotjelly&layout=compact&theme=highcontrast)](https://github.com/robotjellyzone)|
 |---------------------------------------------------|------------------------------------------------------------------------------------------------|
 
+**Github Activity :**
+---
+![Github Activity Graph](https://mysterious-depths-79545.herokuapp.com/graph?username=robotjellyzone&theme=synthwave-84)
+
 📌 **Top Repositories :**
 ---
 [![Project1 Card](https://github-readme-stats.vercel.app/api/pin/?username=robotjellyzone&repo=project-sagemaker-for-sentiment-analysis&theme=buefy)](https://github.com/robotjellyzone)
