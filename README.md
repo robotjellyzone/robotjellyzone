@@ -26,6 +26,8 @@
 [![Project2 Card](https://github-readme-stats.vercel.app/api/pin/?username=robotjellyzone&repo=Logo-Quiz-Game-Using-Kotlin&theme=buefy)](https://github.com/robotjellyzone)
 ---
 
+<!--START_SECTION:activity-->
+
 **Skills :**
 ---
 ![language](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
