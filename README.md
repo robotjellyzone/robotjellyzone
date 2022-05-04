@@ -27,7 +27,15 @@
 ---
 
 <!--START_SECTION:activity-->
+
+
+
+
+
+
+
 <!--END_SECTION:activity-->
+
 **Skills :**
 ---
 ![language](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
