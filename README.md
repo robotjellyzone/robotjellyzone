@@ -3,7 +3,7 @@
 
 # ![Thought Provoking AI IMAGE](https://github.com/robotjellyzone/robotjellyzone/blob/master/image_ai.jpg)
 
-- :sparkles: Hi,I'm **Kavya / Robot Jelly**, a `technology enthusiast` :robot: who is always very keen to know about the great new emerging techologies with the help of which we can heal the society. 
+- :sparkles: Hi,I'm **Kavya / Robot Jelly** (She/Her), a `technology enthusiast` :robot: who is always very keen to know about the great new emerging techologies with the help of which we can heal the society. 
 
 - :sparkles: The techologies which fascinates me a lot are ML/DL/AI :robot: and Android . 
 
@@ -11,7 +11,7 @@
 
 - :sparkles: Just trying to know, how to involve myself in the great technical stuffs/projects helpful for the society & learning ways to use mixture of techologies in one go.
 
-**Github Stats :**
+**:octocat: Github Stats :**
 ---
 |[![Robotjelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=robotjellyzone&count_private=true&show_icons=true&theme=solarized-light&include_all_commits=true)](https://github.com/robotjellyzone)|![streak](https://github-readme-streak-stats.herokuapp.com/?user=robotjellyzone&theme=solarized-light)|
 |---------------------------------------|--------------------------------------------|
@@ -55,7 +55,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@robotjelly.zone)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/robotjellyzone)
 
-**Other Stats :**
+**📈 Other Stats :**
 ---
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=robotjellyzone.readme&left_color=green&right_color=red)
 [![Repos Badge](https://badges.pufler.dev/repos/robotjellyzone)](https://badges.pufler.dev)
