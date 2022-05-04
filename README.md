@@ -1,7 +1,7 @@
-# Hi there 👋🏼 👩🏾‍💻
+# Hello, World 👋🏼 👩🏾‍💻
 
 
-# ![Thought Provoking AI IMAGE](https://github.com/robotjellyzone/robotjellyzone/blob/master/image_ai.jpg)
+# ![gifheader](https://user-images.githubusercontent.com/36916536/166684283-53a55102-c443-4cb1-9730-dc39e35027c5.gif)
 
 - :sparkles: Hi,I'm **Kavya / Robot Jelly** (She/Her), a `technology enthusiast` :robot: who is always very keen to know about the great new emerging techologies with the help of which we can heal the society. 
 
