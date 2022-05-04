@@ -26,7 +26,7 @@
 [![Project2 Card](https://github-readme-stats.vercel.app/api/pin/?username=robotjellyzone&repo=Logo-Quiz-Game-Using-Kotlin&theme=buefy)](https://github.com/robotjellyzone)
 ---
 
-📌 Recent Acitivies :
+📌 Recent Activities :
 ---
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#16404](https://github.com/huggingface/transformers/issues/16404) in [huggingface/transformers](https://github.com/huggingface/transformers)
