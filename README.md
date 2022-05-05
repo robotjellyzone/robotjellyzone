@@ -1,7 +1,6 @@
 # Hello, World 👋🏼 👩🏾‍💻
 
-
-# ![gifheader](https://user-images.githubusercontent.com/36916536/166684283-53a55102-c443-4cb1-9730-dc39e35027c5.gif)
+# <img src="https://user-images.githubusercontent.com/36916536/166684283-53a55102-c443-4cb1-9730-dc39e35027c5.gif" width="1013" height="426">
 
 - :sparkles: Hi,I'm **Kavya / Robot Jelly** (She/Her), a `technology enthusiast` :robot: who is always very keen to know about the great new emerging techologies with the help of which we can heal the society. 
 
