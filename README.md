@@ -13,7 +13,7 @@
 
 **:octocat: Github Stats :**
 ---
-|[![Robotjelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=robotjellyzone&count_private=true&show_icons=true&theme=solarized-light&include_all_commits=true)](https://github.com/robotjellyzone)|![streak](https://github-readme-streak-stats.herokuapp.com/?user=robotjellyzone&theme=solarized-light)|
+|[![Robotjelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=robotjellyzone&count_private=true&show_icons=true&theme=solarized-light&include_all_commits=true&hide_title=true)](https://github.com/robotjellyzone)|![streak](https://github-readme-streak-stats.herokuapp.com/?user=robotjellyzone&theme=solarized-light)|
 |---------------------------------------|--------------------------------------------|
 
 
