@@ -31,9 +31,9 @@
 📌 Recent Activities :
 ---
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17064](https://github.com/huggingface/transformers/issues/17064) in [huggingface/transformers](https://github.com/huggingface/transformers)
-2. 🗣 Commented on [#59](https://github.com/huggingface/course/issues/59) in [huggingface/course](https://github.com/huggingface/course)
-3. 🗣 Commented on [#16404](https://github.com/huggingface/transformers/issues/16404) in [huggingface/transformers](https://github.com/huggingface/transformers)
+1. 💪 Opened PR [#198](https://github.com/huggingface/course/pull/198) in [huggingface/course](https://github.com/huggingface/course)
+2. 🗣 Commented on [#17064](https://github.com/huggingface/transformers/issues/17064) in [huggingface/transformers](https://github.com/huggingface/transformers)
+3. 🗣 Commented on [#59](https://github.com/huggingface/course/issues/59) in [huggingface/course](https://github.com/huggingface/course)
 <!--END_SECTION:activity-->
 
 **Skills :**
