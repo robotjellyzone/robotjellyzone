@@ -31,9 +31,9 @@
 📌 Recent Activities :
 ---
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#964](https://github.com/keras-team/keras-io/pull/964) in [keras-team/keras-io](https://github.com/keras-team/keras-io)
-2. 🗣 Commented on [#59](https://github.com/huggingface/course/issues/59) in [huggingface/course](https://github.com/huggingface/course)
-3. 💪 Opened PR [#198](https://github.com/huggingface/course/pull/198) in [huggingface/course](https://github.com/huggingface/course)
+1. ❗️ Opened issue [#984](https://github.com/keras-team/keras-io/issues/984) in [keras-team/keras-io](https://github.com/keras-team/keras-io)
+2. 🗣 Commented on [#964](https://github.com/keras-team/keras-io/issues/964) in [keras-team/keras-io](https://github.com/keras-team/keras-io)
+3. 💪 Opened PR [#964](https://github.com/keras-team/keras-io/pull/964) in [keras-team/keras-io](https://github.com/keras-team/keras-io)
 <!--END_SECTION:activity-->
 
 **Skills :**
