@@ -25,7 +25,7 @@
 
 📌 **Top Repositories :**
 ---
-[![Project1 Card](https://github-readme-stats.vercel.app/api/pin/?username=robotjellyzone&repo=project-sagemaker-for-sentiment-analysis&theme=buefy)](https://github.com/robotjellyzone) [![Project2 Card](https://github-readme-stats.vercel.app/api/pin/?username=robotjellyzone&repo=Logo-Quiz-Game-Using-Kotlin&theme=buefy)](https://github.com/robotjellyzone)
+[![Project1 Card](https://github-readme-stats.vercel.app/api/pin/?username=robotjellyzone&repo=Project-Sentiment-Analysis-Of-Movie-Reviews&theme=buefy)](https://github.com/robotjellyzone/Project-Sentiment-Analysis-Of-Movie-Reviews) 
 ---
 
 📌 Recent Activities :
